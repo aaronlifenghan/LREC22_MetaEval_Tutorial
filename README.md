@@ -6,7 +6,7 @@ This repository share the material for LREC2022 tutorial "Meta-Evaluation of Tra
 Direct Link to **download our tutorial PPT** slides:
 https://github.com/poethan/LREC22_MetaEval_Tutorial/blob/main/LREC22_Tutorial_MetaEval.pdf
 
-A Nice Seminar Photo from our tutorial https://drive.google.com/drive/folders/1ll70UZ2jxivSYhE5S1yFKwAJ9FhvgYtt?usp=sharing 
+[A Nice Seminar Photo from our tutorial](https://drive.google.com/drive/folders/1ll70UZ2jxivSYhE5S1yFKwAJ9FhvgYtt?usp=sharing) 
 
 Conference Page https://lrec2022.lrec-conf.org/en/ 
 
@@ -17,17 +17,14 @@ Alongside the long road of MT research and development, quality evaluation metri
 In this tutorial, we overview the traditional human judgement criteria, automatic evaluation metrics, unsupervised quality estimation models, as well as the meta-evaluation of the evaluation methods. Among these, we will also cover the very recent work in the MT evaluation (MTE) fields taking advantages of large size of pre-trained language models for automatic metric customisation towards exactly deployed language pairs and domains. In addition, we also introduce the statistical confidence estimation regarding sample size needed for human evaluation in real practice simulation. 
 
 
-| Cite this Tutorial |
+| Short Version Presenation in MoTra2021@NoDaLiDa |
 |---|
 
-@article{hanmeta,
-  title={Meta-Evaluation of Translation Evaluation Methods: a systematic up-to-date overview},
-  author={Lifeng Han and Serge Gladkoff},
-  url = {https://github.com/poethan/LREC22_MetaEval_Tutorial}
-}
 
-Lifeng Han and Serge Gladkoff. 2022. "Meta-Evaluation of Translation Evaluation Methods: a systematic up-to-date overview." Tutorial in LREC2022. 
-
+- Archived Live Conference presentation at MoTra21 - NoDaLiDa21.
+- [Paper link](https://aclanthology.org/2021.motra-1.3/) 
+- [PPT link](https://www.researchgate.net/publication/373556456_TQA_survey_4MoTra21_ppt_publicpdf) 
+- [Youtube Video](https://youtu.be/FLc3tD8KUxE) 
 
 | Content/Appendices |
 |---|
