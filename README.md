@@ -6,7 +6,7 @@ This repository share the material for LREC2022 tutorial "Meta-Evaluation of Tra
 Direct Link to **download our tutorial PPT** slides:
 https://github.com/poethan/LREC22_MetaEval_Tutorial/blob/main/LREC22_Tutorial_MetaEval.pdf
 
-[A Nice Seminar Photo from our tutorial](https://drive.google.com/drive/folders/1ll70UZ2jxivSYhE5S1yFKwAJ9FhvgYtt?usp=sharing) 
+[A Nice Seminar Photo from our tutorial](https://github.com/aaronlifenghan/LREC22_MetaEval_Tutorial/blob/main/foto_gallery.zip) 
 
 Conference Page https://lrec2022.lrec-conf.org/en/ 
 
